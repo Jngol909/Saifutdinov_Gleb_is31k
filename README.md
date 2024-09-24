@@ -34,7 +34,7 @@
 6. Курьер
    - Имя
    - Номер телефона
-   - Методы:
+   - Методы:  
    - принять_заказ(Заказ)
    - доставить_заказ(Заказ)
 
@@ -87,3 +87,5 @@
 ![hPFD2jf058NtFiMGLN-grAqhtwCK2TKM8LemSLKA-IbseIXT5KeNVOI9JJ3KEBx2kMzKxcYQYM6aqheOa7npxpc7CqC_S1V1SkPrtdYkxmjyXSGlI1p4Xuwu_fxZ18KIEOKZ72e0SY2cyy2WCaYA8M-OiHjCQeWYA8eOm_u6n1SSQOiCwjNhneKCEOuycpR6bITFZTMAOXQ84ufxs1cgsgS](https://github.com/user-attachments/assets/8def80fa-def8-4b58-9823-032ce6fd4dc6)
 ![bLDDJW8n5Dxt52_iMGY2i2Fn31vW0YEI82GpPMLCO4nqGoGnhbpu4oymGP098_KANs_aAzM8jMFYB9hs-_bU-zffnJA8vEYqB_hXiIGvfAZNFP7KwKLXM_Q60q4KjEKm8jmXHuObDZhv1X-nr1ETGEanKcnsrFf2Z_MKwR5WrAG5Wsu_f18UM9jncCAhYJEXX1kisJ7XfI9aj8symXffYSu](https://github.com/user-attachments/assets/d852124d-86c5-4e94-983e-36671f8b0622)
 ![bL9DIiD06Dtd5BEqO2_GHUbDfAYBW8QYutuQmLNHfI0kF4BGX0PZuXNUToDVHYSECp7IG8O9x-UzxoEhQxs-qZUN5udYi-4zFKqtwqmhFA51ZGgjv37uR87x67X4WNU--nXwGILRoT698Q4TIPHRCR8ZpIGMzJlCbqkNkb3u54EVBJvuvhnNF7Sd_BI4evcLE_wSMj-grwFxheaYL8uc3sC](https://github.com/user-attachments/assets/f2a517c0-822a-452c-ba37-5ce53f8f0dfe)
+### Видео презинтация проекта:
+https://youtu.be/xvFZjo5PgG0?si=rZg6FG3ZD9uADWkp
